@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_URL": "mongodb://localhost/",
+        "DB_NAME": "ToDo"
+    }
+}
